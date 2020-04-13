@@ -1,1 +1,0 @@
-GLOBAL_LIST_INIT(vox_name_syllables, list("ti","hi","ki","ya","ta","ha","ka","ya","chi","cha","kah","ri","ra"))
